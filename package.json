@@ -1,6 +1,6 @@
 {
   "name": "imdone-card-link-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Jesse Piascik",
   "description": "A plugin that adds a card action for copying a permalink to a card",
   "main": "bundle.js",
@@ -9,7 +9,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "imdone-api": "^0.0.13",
+    "imdone-api": "^0.0.16",
     "nanoid": "^4.0.1"
   },
   "devDependencies": {
